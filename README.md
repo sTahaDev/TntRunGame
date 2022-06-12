@@ -1,2 +1,4 @@
 # TntRunGame
-TntRun is maded by Taha Şahin with LibGDX(JAVA)
+TntRun maded by Taha Şahin with LibGDX(JAVA)
+
+Jar file is in the Executable Jar File
